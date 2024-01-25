@@ -1,1 +1,1 @@
-Deploy: https://raulxag.github.io/Modal/
+Deployment: https://raulxag.github.io/Modal/
